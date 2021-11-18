@@ -1,0 +1,10 @@
+{
+  "title": "Materiały | Sieci komputerowe",
+  "url": "https://sieci.citymeet.xyz/materials",
+  "logo": {
+    "light": "/logo-light.svg",
+    "dark": "/logo-dark.svg"
+  },
+  "github": "jas777/sieci-materialy",
+  "twitter": "dangerous_dev"
+}
