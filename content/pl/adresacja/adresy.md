@@ -14,9 +14,9 @@ się go łatwo zmienić, chociaż powoli się to zmienia.
 Adres MAC jest 6-bajtowy (48-bitowy). Pierwsze 24 bity oznaczają producenta karty sieciowej, a pozostałe są unikatowym
 identyfikatorem danego urządzenia.
 
-<alert type="success">
+<alert type="info">
 Łatwiej zapamiętać, że identyfikator producenta od numeru urządzenia zawsze oddziela środkowy znak (głównie <template>
-<code>-</code> lub <code>:</code></template>)
+<code>&ndash;</code> lub <code>:</code></template>)
 </alert>
 
 #### Przykład

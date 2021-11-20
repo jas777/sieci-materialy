@@ -1,0 +1,11 @@
+table.withborders td, table.withborders tr, table.withborders th {
+    border: 1px solid theme('colors.gray.700');
+}
+
+table.withborders th {
+    padding: 5px;
+}
+
+.footnote-ref {
+    text-decoration: none !important;
+}

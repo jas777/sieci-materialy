@@ -8,6 +8,7 @@ export default theme({
   docs: {
     primaryColor: '#8B5CF6',
   },
+  css: ["../../../../assets/css/mdextensions.css"],
   i18n: {
     locales: () => [{
       code: 'pl',

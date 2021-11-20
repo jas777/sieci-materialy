@@ -4,9 +4,12 @@ description: 'Informacje ogólne i plany na rozwój strony'
 position: 1
 category: ''
 features:
+  - Warstwy sieciowe
   - Adresacja urządzeń
   - Sieci
   - Podsieci
+  - Słownik
+  - Przykłady
 ---
 
 <alert type="warning">
@@ -19,4 +22,4 @@ Strona powstała głównie dlatego, że niektórzy mają duże problemy z siecia
 
 ## Materiał planowany / dodany
 
-<list :items="features"></list>
+<list :items="features" type="success" icon="IconArrowRight"></list>
