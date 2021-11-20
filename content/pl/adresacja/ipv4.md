@@ -1,7 +1,7 @@
 ---
 title: IPv4 
 category: 'Adresacja' 
-position: 4
+position: 5
 description: 'Opis i struktura IPv4'
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Adresy fizyczne i logiczne 
 category: 'Adresacja' 
-position: 3 
+position: 4
 description: 'Opis teoretyczny adresów logicznych i fizycznych'
 ---
 

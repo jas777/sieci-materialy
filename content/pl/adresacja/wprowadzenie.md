@@ -1,7 +1,7 @@
 ---
 title: Wprowadzenie
 category: 'Adresacja'
-position: 2
+position: 3
 description: 'Ta część opisuje czym jest, jak i do czego używać adresacje oraz pokazuje dwa typy adresów: fizyczne i logiczne, oraz ich protokoły (IPv4, IPv6 oraz MAC)'
 ---
 
