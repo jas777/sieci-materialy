@@ -1,7 +1,7 @@
 ---
 title: Dzielenie na podsieci
 category: Adresacja
-position: 6
+position: 23
 ---
 
 <alert type="warning">

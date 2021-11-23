@@ -2,7 +2,7 @@
 title: Wprowadzenie
 description: Wprowadzenie do warstw sieciowych ISO/OSI
 category: Warstwy sieci
-position: 2
+position: 10
 ---
 
 Komunikacja pomiędzy urządzeniami w sieciach komputerowych, jak każdy inny typ komunikacji rządzi się określonymi
