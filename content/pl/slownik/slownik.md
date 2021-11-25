@@ -101,7 +101,7 @@ Nie wszystkie protokoły mają port!
   synchronizację czasu pomiędzy komputerami. Wzorcowy czas UTC może pochodzić pośrednio ze specjalizowanych serwerów
   czasu
 
-- **SNTP (Simple NTP)** &ndash; Uproszczona wersja NTP. Wersja ta znajduje powszechne zastosowanie w prostych 
+- **SNTP (Simple NTP)** <badge>123</badge> &ndash; Uproszczona wersja NTP. Wersja ta znajduje powszechne zastosowanie w prostych 
   systemach operacyjnych i rozwiązaniach, w urządzeniach przenośnych i w telefonach komórkowych.
 
 ### E-mailowe
@@ -124,7 +124,7 @@ Nie wszystkie protokoły mają port!
 
 ### Usługi
 
-- **DNS (Domain Name System)** &ndash; hierarchiczny rozproszony system nazw sieciowych, który odpowiada na zapytania o
+- **DNS (Domain Name System)** <badge>53</badge> &ndash; hierarchiczny rozproszony system nazw sieciowych, który odpowiada na zapytania o
   nazwy domen. Dzięki DNS nazwa _np. google.com_ jest tłumaczona na odpowiadający jej adres IP.
 
 ### Switche
@@ -143,6 +143,10 @@ Nie wszystkie protokoły mają port!
   Można się też spotkać z pojęciem "port tagowany", które oznacza to samo.
 
 ## Ważne standardy IEEE 802
+
+<alert type="warning">
+Nie są to wszystkie protokoły IEEE 802.XX! Wymienione są te najważniejsze, które zapewniają podstawy pod inne wersje protokołu.
+</alert>
 
 ### Standardy IEEE 802.3 (Ethernet)
 
