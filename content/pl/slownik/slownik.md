@@ -145,7 +145,7 @@ Nie wszystkie protokoły mają port!
 ## Ważne standardy IEEE 802
 
 <alert type="warning">
-Nie są to wszystkie protokoły IEEE 802.XX! Wymienione są te najważniejsze, które zapewniają podstawy pod inne wersje protokołu.
+Nie są to wszystkie standardy IEEE 802.XX! Wymienione są te najważniejsze, które zapewniają podstawy pod inne wersje protokołu.
 </alert>
 
 ### Standardy IEEE 802.3 (Ethernet)
