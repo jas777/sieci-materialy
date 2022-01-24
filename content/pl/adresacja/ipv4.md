@@ -136,9 +136,16 @@ wypełnione zerami.
 Aby umożliwić urządzeniom komunikowanie się między sobą, musimy każdemu przypisać osobny adres IP, który pozowli na
 wzajemną identyfikację hostów.
 
-<alert type="danger">
+#### Z definicji: 
+> Liczbowy identyfikator nadawany interfejsowi sieciowemu, grupie interfejsów (broadcast, multicast), bądź całej sieci komputerowej w protokole IP, służąca identyfikacji elementów sieci w warstwie trzeciej modelu OSI – w obrębie sieci lokalnej oraz poza nią (tzw. adres publiczny).
+
+W przeciwieństwie do adresu sprzętowego (MAC; warstwa druga modelu OSI) **adres IP nie musi identyfikować jednoznacznie urządzenia ani w czasie, ani fizycznie** (szczególnie, jeśli nie należy on do zakresu publicznego, a jest adresem podlegającym translacji, bądź jest przydzielany dynamicznie).
+
+__Protokół komunikacyjny IP pracuje w trzeciej warstwie modelu__ (warstwie sieciowej) niezależnie od rodzaju nośnika warstwy pierwszej. Jest *trasowalny* (routowalny), a więc umożliwia trasowanie, które odbywa się właśnie w **warstwie trzeciej**. Aby zapewnić pomyślność komunikacji w tym protokole, konieczne jest przyporządkowanie adresów IP interfejsom sieciowym urządzeń.
+
+<!-- <alert type="danger">
 Część w przygotowaniu!
-</alert>
+</alert> -->
 
 
 

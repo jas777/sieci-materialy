@@ -4,10 +4,6 @@ category: Adresacja
 position: 23
 ---
 
-<alert type="warning">
-Pisane na szybko <3
-</alert>
-
 Załóżmy, że mamy adres urządzenia `192.168.0.119` z maską `/24 (255.255.255.0)`
 
 Aby obliczyć właściwy adres sieci, przeprowadzamy operację & (AND) &ndash; przypominam, że tabela wyników dla AND wygląda
